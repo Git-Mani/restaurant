@@ -1,0 +1,33 @@
+[
+    {
+        "placeImage": "images/baba.jpg",
+        "placeName": "The Baba Saloon",
+        "placeItems": ["hair cut","Shave","Facial"],
+        "rating": "***"
+
+    },
+
+    {
+        "placeImage": "images/king.jpg",
+        "placeName": "The king Saloon",
+        "placeItems": ["hair cut","Shave","Facial"],
+        "rating": "****"
+
+    },
+
+    {
+        "placeImage": "images/rahul.jpg",
+        "placeName": "rahul Saloon",
+        "placeItems": ["hair cut","Shave","Facial"],
+        "rating": "****"
+
+    },
+
+    {
+        "placeImage": "images/central.jpg",
+        "placeName": "Central India",
+        "placeItems": ["hair cut","Shave","Facial"],
+        "rating": "****"
+
+    }
+]
